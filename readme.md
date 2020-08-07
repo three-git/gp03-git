@@ -60,8 +60,18 @@
 2. git pull 把远程代码拉取到本地
 3. git clone 把远程仓库克隆到本地
 
-
 ：wq 回车
+
+## git branch
+1. 查看所有分支
+2. 当前分支前面有*
+
+## git branch 分支名
+1. 创建分支
+
+## git checkout 分支名
+1. 切换分支
+
 
 
 
